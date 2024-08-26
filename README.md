@@ -1,4 +1,7 @@
 # GitHub Actions Demo with Python
+![Python](https://img.shields.io/badge/Python-3.x-blue.svg)
+![GitHub Actions](https://img.shields.io/badge/CI%2FCD-GitHub%20Actions-yellow.svg)
+![Branch Protection](https://img.shields.io/badge/Branch%20Protection-Rules-green.svg)
 
 This project is a simple demonstration of using GitHub Actions to automate tasks in a Python project. It includes setting up branch protection rules, creating a workflow using a YAML file, testing the workflow, and configuring GitHub Secrets for environment variables.
 
